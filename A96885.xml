@@ -1,0 +1,710 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Christ-mas day, the old heathens feasting day, in honour to Saturn their idol-god. The Papists massing day. The prophane mans ranting day. The superstitious mans idol day. The multitudes idle day. Whereon, because they cannot do nothing: they do worse then nothing. Satans, that adversaries working-day. The true Christian mans fasting-day. Taking to heart, the heathenish customes, Popish superstitions, ranting fashions, fearful provocations, horrible abhominations committed against the Lord, and His Christ, on that day, and days following.</title>
+            <author>Woodward, Ezekias, 1590-1675.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1656</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 71 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96885</idno>
+            <idno type="STC">Wing W3482</idno>
+            <idno type="STC">Thomason E868_3</idno>
+            <idno type="STC">ESTC R207652</idno>
+            <idno type="EEBO-CITATION">99866690</idno>
+            <idno type="PROQUEST">99866690</idno>
+            <idno type="VID">118974</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96885)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118974)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 131:E868[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Christ-mas day, the old heathens feasting day, in honour to Saturn their idol-god. The Papists massing day. The prophane mans ranting day. The superstitious mans idol day. The multitudes idle day. Whereon, because they cannot do nothing: they do worse then nothing. Satans, that adversaries working-day. The true Christian mans fasting-day. Taking to heart, the heathenish customes, Popish superstitions, ranting fashions, fearful provocations, horrible abhominations committed against the Lord, and His Christ, on that day, and days following.</title>
+                  <author>Woodward, Ezekias, 1590-1675.</author>
+               </titleStmt>
+               <extent>[4], 28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Cripps, and are to be sold at this shop, in Popes-Head-Alley, neer Lumbard street,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1656.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Ezekias Woodward by Wing.</note>
+                  <note>Annotation on Thomason copy: "Febr. 12"; "Hezek. Woodward.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christmas --  England --  Early works to 1800.</term>
+               <term>Fasts and feasts --  Church of England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>Susie Lorand</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>Susie Lorand</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118974:1" rendition="simple:additions"/>
+            <p>CHRIST-MAS DAY,</p>
+            <lg>
+               <l>The old Heathens feaſting Day, in honour to <hi>Sa<g ref="char:EOLhyphen"/>turn</hi> their Idol-God.</l>
+               <l>The Papiſts Maſſing Day.</l>
+               <l>The Prophane mans Ranting Day.</l>
+               <l>The Superſtitious mans Idol Day.</l>
+               <l>The Multitudes Idle Day.</l>
+               <l>Whereon, becauſe they cannot do <hi>Nothing: They</hi> do worſe then <hi>Nothing.</hi>
+               </l>
+               <l>Satans, That Adverſaries Working-Day.</l>
+               <l>The true Chriſtian Mans Faſting-Day.</l>
+            </lg>
+            <p>Taking to Heart, the Heatheniſh Cuſtomes, Popiſh Superſtitions, Rant<g ref="char:EOLhyphen"/>ing Faſhions, Fearful Provocations, Horrible Abhominations committed againſt the Lord, and His Chriſt, on that Day, and Days following.</p>
+            <q>
+               <bibl>Ezek. 11. 12.</bibl> 
+               <hi>Ye have done after the manner of the Heathen.</hi>
+            </q>
+            <q>
+               <bibl>Jer. 7. 31.</bibl> 
+               <hi>Which I commanded not, neither came it into my heart.</hi>
+            </q>
+            <q>
+               <bibl>Gal. 4. 10. 11.</bibl> 
+               <hi>Ye obſerve days, I am afraid of you, leſt I have beſtowed upon you labour in vain.</hi>
+            </q>
+            <q>
+               <bibl>Hoſ. 2. 17. compared with Exod. 23. 13. Deut. 12. 3.</bibl>
+               <hi>I will take away the Names of Baalim out of her mouth, and they ſhall no more be remembred by their name.</hi>
+            </q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Henry Cripps,</hi> and are to be ſold at his Shop, in Popes-Head-Alley, neer <hi>Lumbard</hi> Street, 1656.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:118974:2"/>
+            <pb facs="tcp:118974:2"/>
+            <head>TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">W</seg>E muſt give out reaſon, though haply you may gueſſe at it, why we put the third Section firſt. Pleaſe you to conſult the Epi<g ref="char:EOLhyphen"/>ſtle to the Reverend Miniſters, there you will find an account of our buſineſs, and Method of our proceſſe therein; and that this of Chriſtmaſs, for we muſt ſpeak that we may be underſtood, is the third part of enjoyned task. But conſidering that Day is now approaching, whereon the God of this world (as a world of men have made him, and do now as God honour him) will be together with the Belly another
+<pb facs="tcp:118974:3"/> God (of the ſame make) moſt ſtudiouſly ſer<g ref="char:EOLhyphen"/>ved with a ſervice well becomming ſuch Gods, Riotting and Drunkenneſs, Cham<g ref="char:EOLhyphen"/>bering and Wantonneſs: conſidering this time, as we ſaid, together with thy good now and hereafter, we have offered this to thee firſt, leaſt you ſhould run with the mul<g ref="char:EOLhyphen"/>titude that keep Holy-day into all exceſs of riot, whereunto you will feel your ſelfe dri<g ref="char:EOLhyphen"/>ven by a cunning Satan within, and another without, if a glorious Arm interpoſe not: For ſo it muſt needs be, where two Gods are ſerved, The onely True One is blaſpheamed and abhorred. Conſidering, we ſay, all this we have done as you ſee, deſiring heartily, it may be a word well Timed, ſpoken in ſea<g ref="char:EOLhyphen"/>ſon, and ſet as upon the Wheel, Prov. 15. 23. 25. 11. 12. It is not proper for us now to Charge or to Counſel, But wo to that man that will not hear the Charge of the Lord, and Counſel from his mouth, for ſo ſaith the Lord. Therfore indeed of that wo let us pray That we may hear this charged upon us, by truely learned and Godly Miniſters as deeply as Paul chargeth Timothy upon another ac<g ref="char:EOLhyphen"/>count 1. 5. 2. 11. <q rend="margDblQuotes">we charge you before God,
+<pb facs="tcp:118974:3"/> and the Lord Jeſus Chriſt, &amp; the Elect An<g ref="char:EOLhyphen"/>gels,</q> That ye enquire into the mind of Chriſt, in reference to the obſervation of thoſe dayes, we very ignorantly, and then as boldly, if not preſumptiouſly, call the Day of his Nativity and Circumciſion-No more.</p>
+            <p>Then ſecondly, that we hearken what God ſaith by the ſaid Meſſengers of the Churches and glory of Chriſt, and as dear chil<g ref="char:EOLhyphen"/>dren be followers of them, as they follow Chriſt, and thoſe truely called Chriſtians, who thorow faith and patience inherit the promiſes. And for other guides follow them, as they lead to Chriſt, and be com<g ref="char:EOLhyphen"/>manded by them, as they command for him: For there is One and but One, a Lea<g ref="char:EOLhyphen"/>der &amp; Commander for his people, Iſa. 55. 4. He that rules over men ſhould be juſt, and command in the Lord; But be that at his pe<g ref="char:EOLhyphen"/>ril. Look we well to this, that we obey in the Lord. The greateſt Rulers in the world then much more our petty Rulers in our Towns (we will go no higher, that we may not out compaſs our knowledge) O how croſſe and contrary they are, and as they are they run, ſome of them clean croſſe to that
+<pb facs="tcp:118974:4"/> Onely Leader and Commander, <q rend="margSglQuotes">ſtretching out the hand againſt God, and ſtrengthning themſelves againſt the Almighty, they run upon him. Some, yea too many of them, e<g ref="char:EOLhyphen"/>ven on his neck, upon the thick Boſſes of his bucklers.</q> So Job deſcribes a wicked man in his natural courſe, ch. 15. 25. 26. Even ſo our Rulers in ſome of our Towns do, what they do in Cities we enquire not. But we were ſaying, the greateſt Rulers in the World are but Rules ruled. Jeſus Chriſt alone is the Rule Ruling, <q rend="margSglQuotes">Beware of him, and obey his voice, provoke him not, for he will not pardon your tranſgreſſions: for my Name is in him,</q> ſaith the Lord, Exod. 23. 21. If you ſhall obſerve this with all obſervation, you ſhall do well.</p>
+            <trailer>Farewel.</trailer>
+         </div>
+      </front>
+      <body>
+         <div n="3" type="section">
+            <pb facs="tcp:118974:4"/>
+            <head>SECT. III.</head>
+            <p>The Third Query is, whether the Day, commonly called <hi>Chriſtmas-Day,</hi> is to be kept holy? The Negative, That it is not to be kept holy, is under our Maintenance.</p>
+            <div n="1" type="chapter">
+               <head>CHAP. I.</head>
+               <p>WE would promiſe ſome things here alſo very brief<g ref="char:EOLhyphen"/>ly. <note place="margin">Sect. 1.</note> Firſt, to the Reader in common, then to the Reverend Miniſter in ſpecial that enjoyned this Task.</p>
+               <p>To the Reader, That he may be cleared in the progreſs of our enjoyned and undertaken ſa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k, which was: To hold this forth from ſacred Scripture, That, ſupp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſing (for we may ſup<g ref="char:EOLhyphen"/>poſe that of which we make no queſtion) <hi>Chriſtmas-Day is not to be kept holy:</hi> A godly Miniſter ought to teach his people ſo, and trouble them ab<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut it, and heat them off from that ob<g ref="char:EOLhyphen"/>ſervation whereunto they will feel themſelves <hi>driven</hi> by a curſ<g ref="char:EOLhyphen"/>ed thing within them. Indeed we hold to this, That he ought and muſt <hi>drive</hi> his p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ople as he can from the obſervation of thoſe Times, which have not the impreſſion and ſtamp of God upon them. But this we ſhall n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t meddle with here, <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>ferring it to its proper place, the <hi>fift Section.</hi> This onely, as we ſaid, falls under our maintenance here, <hi>[That</hi> the <hi>Day</hi> is not to be kept holy;] And if we are able to make good this Negitive, then you may think we have <hi>cauſam facilem,</hi> no hard task in our hand, to cleer this from Scripture, That a godly Miniſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r muſt tell his people ſo, as aforeſaid; and ſhall we doubt not, through Divine Aſſiſtance, be fully cleered here<g ref="char:EOLhyphen"/>after
+<pb n="4" facs="tcp:118974:5"/> in the progreſs of our undertaken task. So much to thee Reader.</p>
+               <p>And nextly to your ſelf. Sir, Before we enter upon the de<g ref="char:EOLhyphen"/>bate, <note place="margin">Sect. 2.</note> and to maintain our undertaking, we hold it our duty, to cleer you as much as we can in this matter. And where we cannot, though we do what we can, there we will leave you to God to cleer your ſelf before him. This we muſt ſpeak out for your cleering. That you did not honour this day, while you were amongſt us, with a Sermon, or any other ſervice upon that day, though importuned ſo to do, as a ſottiſh, brutiſh peo<g ref="char:EOLhyphen"/>ple uſe to do. That is all we can ſay for you; that which you ſay now, makes againſt you, as we ſuppoſe, and now falls un<g ref="char:EOLhyphen"/>der debate, for you ſay, <q rend="margDblQuotes">
+                     <hi>That holy men</hi> have done it, kept the day holy, and have maintained their doings in their writ<g ref="char:EOLhyphen"/>ings: And therefore you conclude, That other matters are to be handled, and that point of obſervation, as to that day, not to be dealt in before the people, (let them alone with their cuſtomes) It is a controverted point, holy men are for the obſervation of that day, and holy men againſt it;</q> Let it be left in <hi>Medio,</hi> ſpeak neither for it nor againſt it, <hi>medio tu<g ref="char:EOLhyphen"/>tiſſimus ibis;</hi> this is your advice, and we judge it not, but thank you for it. Your intentions may be holy, your ends pure before your own eyes, and the eyes of others; And all that is nothing before God, unto which Maſter you ſtand or fall: It is not what our <hi>intentions</hi> are, but what the <hi>word of inſtitution is,</hi> for that carries it againſt all the godly and learned men of the world; ſuppoſe them to be all and every one for the <hi>keeping holy</hi> that day; whereas we are verily perſwaded, you will not find two godly men now adays, maintaining the Obſervation of that Feaſt, either by their writing, preaching or practiſe: yet if you ſhould ſpye out two, we humbly conceive, they are too many by two. And we could wiſh that you had not ſpo<g ref="char:EOLhyphen"/>ken a word in favour of it; for the leaſt word whiſpered in fa<g ref="char:EOLhyphen"/>vour of an <hi>Idol Day,</hi> ſhould be as much avoided by a true Chriſtian, we think, as was the offering the leaſt <hi>Grain</hi> of In<g ref="char:EOLhyphen"/>cenſe to an Idol God, by the faithful Antipaſſes [Anti-papas] in days of old, whereof you have read ſo much, that we will <note place="margin">Bright<g ref="char:EOLhyphen"/>man.</note> tell you nothing.</p>
+               <pb n="5" facs="tcp:118974:5"/>
+               <p>And we are perſwaded we could hold this forth (had you commanded us, but you conſidered our ſtrength, and dealt with <note place="margin">Sect. 3.</note> us as with children in underſtanding; as indeed we are yet) able to cleer this from them uth of God, <hi>That this name Chriſtmas is not to be named,</hi> unleſs with indignation by a godly man, truly and indeed ſuch an one, <hi>godly in Chriſt Jeſus. Let</hi> 
+                  <note place="margin">1 Cor. 5. 1. Hoſ. 2. 17. 1 Tim. 6. 20. See Cartw. p. 576. 577.</note> 
+                  <hi>us,</hi> ſay the <hi>Rhemiſts,</hi> which is their councel alſo, "<hi>Keep to</hi> our fore-fathers words, and we ſhall keep to our fore-fathers faith, [and be as Idolatrous ſtill as they were.] <hi>Keep up the Name of Chriſtmas,</hi> (<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hat is one of their old words) and we ſhall keep up [the ſuperſtitious Cuſtomes, and Heatheniſh practiſes in uſe among us at that time.] Do not you, (if our advice may take <note place="margin">
+                     <hi>We muſt do what poſſi<g ref="char:EOLhyphen"/>bly we can, that the ve<g ref="char:EOLhyphen"/>ry names, terms and phraſes that Idolators have uſed might be utterly abo<g ref="char:EOLhyphen"/>liſhed, and remembred no more,</hi> Exod. 23. 13 Deut. 12. 3.</note> place) a low your people the <hi>Name,</hi> for then they will allow themſelves the <hi>thing,</hi> thoſe Idolatrous ſervices, cuſtomes and practiſes, before ſpoken of: If you will allow them an Inch here, as we ſay, <hi>indulgeban: ſibi latius,</hi> they will take an El. Certainly, Miniſters ſhould not ſuffer us to come nigh Popery, they ſhould bid us keep from the Verges of it; to abſtain from the leaſt appearance of that great evil. Ye muſt reſtrain us in our provoking ways, ye muſt tell us we ſtand not faſt, while we ſtand neer to danger, no more then we do, ſtanding neer thoſe places where the Sea is bearing-in; yet if we will do ſo, for we are very wilful; ye ſhould <hi>frown upon us,</hi> we think, and reſtrain us what ye can; aſſuring us, <hi>nothing is little or ſmall, as not</hi> in <hi>Gods Law,</hi> ſo nor in <hi>His Worſhip,</hi> nor in any of thoſe matters which lead on to the greateſt and higheſt pro<g ref="char:EOLhyphen"/>vocations. And if ye ſhall not ſo do, ye <hi>bid</hi> us, upon the mat<g ref="char:EOLhyphen"/>ter, to ſpeak and do as we have done: Name the 25. of <hi>De<g ref="char:EOLhyphen"/>cember</hi> as ſuperſtitiouſly, as we commonly name the Lords day <note place="margin">qui non ve<g ref="char:EOLhyphen"/>lat cum po<g ref="char:EOLhyphen"/>teſt jubet.</note> heathen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſhly: Ye muſt eſtrain us in theſe things, elſe ye bid us do it; Keep-on your Heathen<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſh Names and Cuſtomes ſtill. <hi>Let us,</hi> ſay the <hi>R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>emiſts.</hi> in the place <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ore mentioned; <hi>take heed of the words of Hereticks</hi> (they mean thoſe truly godly, all over <note place="margin">Act. 24. 14.</note> the world, who can ſpeak of that <hi>Hereſie</hi> as <hi>Paul</hi> did:) And ſhould not we ſay as much of thoſe Hereticks indeed, whoſe Religion or way of Worſhip is but <hi>meer error,</hi> as their head <note place="margin">2 Theſ. 2. 3. merum ſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lus. Bez.</note> and body is but <hi>meer wickedneſs?</hi> Let us take heed of the words of theſe Hereticks, elſe we ſhall never come off cleerly from
+<pb n="6" facs="tcp:118974:6"/> their works. You teach your people, we think, we know it is your duty, That it is not enough that they <hi>forb<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>a</hi> an <hi>Oath,</hi> but that they muſt <hi>fear</hi> an Oath; not onely not to commit ſin, but to hate, yea to abominate ſo to do; ſo i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> this caſe, not enough not to obſerve this Idol-day, but to loath to do it: We cannot <hi>chooſe</hi> or <hi>like</hi> that we do not <hi>love;</hi> not leave or decline that we do not <hi>loath.</hi> We muſt hate every <hi>falſe way,</hi> becauſe God ha<g ref="char:EOLhyphen"/>teth it: And with that excellent R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ler, contend againſt thoſe that will walk therein, ſtirring up our ſelves againſt ſuperſtious perſons and practiſes, as all that truly worſhip the Father, muſt do; ſo they cannot but ſhew how much they love him, what zeal they have for him, and with what indignation they are carried out againſt all that and onely that, their Lord hath indig<g ref="char:EOLhyphen"/>nation againſt.—But we will take no more work into our hands, but what you were pleaſed, conſidering our Shoulder (for which we thank you) to impoſe upon us, The maintaining the Nega<g ref="char:EOLhyphen"/>tive, <hi>That Chriſtmas Day,</hi> (commonly ſo called by common and unclean tongues) <hi>is not to be kept</hi> holy, that the people are to be told ſo, and beaten off from it, and no delay to be uſed in theſe matters, ſhall be we hope cleered, as was ſaid in its re<g ref="char:EOLhyphen"/>ſpective place.</p>
+            </div>
+            <div n="2" type="chapter">
+               <head>CHAP. 2.</head>
+               <p>HEere we muſt excuſe you again; you like not that ancient plea for the obſervation of the day, <hi>old cu<g ref="char:EOLhyphen"/>ſtomes,</hi> 
+                  <note place="margin">Sect. 1.</note> our Grand-parents kept this day, ſo did our parents, and ſo have we done hitherto, and ſo we are reſolved to do while we live, <hi>ſtubbornly enough.</hi> This is too rotten to hold, and as wil<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> and ſawey reaſonning it is, as theirs was, what our Fathers did, we will do, how abomi<g ref="char:EOLhyphen"/>nable ſoever their doings were. And yet the little you have ſaid, for the obſervation of the Day, hath no little force in it, being taken from Scripture, if your Allegation be right: that which you may borrow from the writings of holy men, and from their practiſe alſo, is of little or no account at all with us, though ſomething may be ſaid to it in due place: we would
+<pb n="7" facs="tcp:118974:6"/> deliver our ſelves from your <hi>Scripture allegation.</hi> Firſt, for that will bear you out if any will, <hi>Scripture proof being ſure proof.</hi>
+               </p>
+               <p>Your Scripture (we call it yours, for poſſibly it may be miſ<g ref="char:EOLhyphen"/>taken, <note place="margin">Sect. 2.</note> if not perverted; <hi>&amp; male dum recitas incipit eſſe tuus)</hi> is taken out of <hi>John 10. 22. And it was at Jeruſalem, the Feaſt</hi> 
+                  <note place="margin">Ioh. 10. 22. Vid. Bez.</note> 
+                  <hi>of Dedication, and it was Winter, and Jeſus walked in the Temple,</hi> &amp;c. Now as we conceive, here is the very <hi>Hinge</hi> 
+                  <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Argument from our Lords example, obſerving that <hi>novel Feaſt</hi> (for that is the force of the word, is of the Argument.) Our Lord and Saviour obſerved that <hi>Feaſt,</hi> a novel thing, and meerly of mans inſtitution; Therefore may we obſerve the Feaſt of his Nativity. Well, It is not a day for mirth, but rather in ſome reſpects of ſigning, with breaking of the Loyns; yet we cannot paſs over this without a ſmile at leaſt, though we are ſe<g ref="char:EOLhyphen"/>rious for the truth; and <hi>ridentem dicere, vere quis negat?</hi> ſo we ſay on, and enquire into this farther, we mean, this <hi>Feaſt of Dedication,</hi> that ſo we may try the ſtrength of this H<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e, whereon this Argument holds. We read the Temple was De<g ref="char:EOLhyphen"/>dicated three times: Firſt by <hi>Solomon,</hi> in the ſeventh Moneth, <note place="margin">2 Kings. 8.</note> that was in the midſt of <hi>Autum;</hi> Then after the Temple was reſtored and built again by <hi>Nehemiah</hi> and his fellow-workmen. It was Dedicated again by him, the third day of the twelfth <note place="margin">Neh. 12. 27.</note> Moneth, which falls out in our twelfth and firſt Moneths com<g ref="char:EOLhyphen"/>monly called <hi>February</hi> and <hi>March:</hi> It was a Feſtival time with them, as we read; but it held but that time, we mean, it was not Anniverſary, it was not obſerved the Year after, neither by King <hi>Solomon,</hi> nor by that Prince-like Ruler <hi>Nehe<g ref="char:EOLhyphen"/>miah.</hi> The third time, after it was renewed and purged, De<g ref="char:EOLhyphen"/>dicated by <hi>Judas Machabaeus,</hi> in the Moneth <hi>Chiſten,</hi> which anſwers our tenth Moneth, <hi>December;</hi> therefore it was ſaid in the Text; <hi>And it was Winter. It was</hi> ordered alſo that <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he <note place="margin">Mac. 4. 59.</note> Feaſt of Dedication be kept in its ſeaſon from Year to Year, by the ſpace of eight days; from the five and twentieth day of that Moneth, called with us <hi>December:</hi> Indeed to ſpeak our mind here in paſſage onely, and then to go on. This their Feaſt, and th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s your Feaſt (we make bold to call it yours, becauſe you ſeem to own it, and to hold for the obſervation of it (falling out pat
+<pb n="8" facs="tcp:118974:7"/> upon one day, would make a wiſe man after the fleſh (as ſure<g ref="char:EOLhyphen"/>ly it doth) <hi>mad</hi> upon that <hi>Idol-day,</hi> to obſerve it as an <hi>holy-day,</hi> and with more ſtrict and ſolemn obſervation, then he will, or poſſibly can, that onely <hi>Holy-Day</hi> which hath the ſtamp of the Lord upon it: but of this anon. That which is now to be done, is to vindicate our <hi>Lord,</hi> going up to that Feaſt: And that in ſo doing it will not juſtifie us in our obſervation of that Feſtival Day, the Church obſerves all over the Nation, or the Natio<g ref="char:EOLhyphen"/>nal Church there.</p>
+               <p>Firſt then to juſtifie our Lords practiſe, <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> it needed ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> juſti<g ref="char:EOLhyphen"/>fication: <note place="margin">Sect. 3.</note> This we ſay, That our Lord did not obſerve the Feaſt, but the ſeaſon or opportu<gap reason="illegible" resp="#APEX" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>, <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> good: As <hi>Paul,</hi> who followed him obſ<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> day of <hi>Prince?</hi> at <hi>Jeruſalem,</hi> and afterward <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> 
+                  <hi>Epheſ<gap reason="illegible" resp="#APEX" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>, Acts 20. 16<g ref="char:punc">▪</g> Co<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. 16. 8.</hi> 
+                  <note place="margin">See Calvin upon the place.</note> There he knew he ſhould find a grea<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> of people, very obſervant of their ow<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> days, which are <hi>deviſed</hi> of their own heart, as <hi>Jeroboams</hi> Feaſt was, and have their own ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>on them; His heart was upon his work, the doing <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <hi>will;</hi> He did it as chearfully as we eat and drink; <gap reason="illegible" resp="#APEX" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> the ſeaſons and all advantages to do good, the manner of all that walk as he walked: He went up to the Feaſt, though of mans inſtitution; and as the adviſe is, <hi>ſpragit manum,</hi> ſome good might be done, ſome ſeeds might take, as he well knew, that knew all things: And though i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> was winter, yet he went up: <q rend="margDblQuotes">Be it fair or foul, Sun-ſhine or rain, Summer or Winter, it hinders not a true Chriſtian from doing his duty;</q> for he doth in deſire and endeavour as Chriſt did. It is natu<g ref="char:EOLhyphen"/>ral to the new Creature, the divine Nature ſo to do.</p>
+               <p>But now if it be replyed here, as we think it will, That a Mi<g ref="char:EOLhyphen"/>niſter is never like to find ſuch a Concourſe of people at his meet<g ref="char:EOLhyphen"/>ing place, as he may do on that day; And therefore if all advan<g ref="char:EOLhyphen"/>tages of doing good may, and ought to be taken, why may not a Miniſter preach a good may, and ought to be taken, why may not a Miniſter preach a good Sermon on that day, and take his War<g ref="char:EOLhyphen"/>rant from his Lords practiſe, going up to <hi>Jeruſalem</hi> on that Feaſt day?</p>
+               <p>To this we would briefly reply theſe things. <note place="margin">Sect. 4. ¶ 1.</note>
+               </p>
+               <p>It is not always ſafe to do what we read the Lord did, though we may urge him for our example. Our Lord went over the
+<pb n="9" facs="tcp:118974:7"/> Sea on foot, he could that made the Sea, make the ſea ſolid like the land, to bear him up: we muſt not do ſo unleſſe we have a more then his <hi>Example,</hi> his <hi>word</hi> too, as <hi>Peter</hi> had COME, A<g ref="char:EOLhyphen"/>gain, the Lord Chriſt went into a chiefe Phariſees houſe to din<g ref="char:EOLhyphen"/>ner <note place="margin">Mat. 14. 29.</note> on the Sabbath day, where there was great Company, and anſwerably great Cheer; probable it is, it was a marriage feaſt. <note place="margin">Luk. 14. 1.</note> He did not allow of the feaſt, nor of the uſage or manners of the gueſts there, nor of our feaſtings on the Lords day: but there he took the ſeaſon to do good, and to correct the ill, and being Lord of time, and Maſter of the <hi>means</hi> and <hi>end,</hi> could remove as pleaſed him, whatever hindered all this, which the beſt Mini<g ref="char:EOLhyphen"/>ſter in the world is not able to doe, which we take to be conſi<g ref="char:EOLhyphen"/>derable at this point.</p>
+               <p>Secondly, we ſhould ſay granting this, that all advantages are to be taken for doing good: That as Maſter <hi>Burroughs,</hi> an ex<g ref="char:EOLhyphen"/>cellent preacher in his days ſaith, A Sermon may be preached on that day, and another on the following day, it being a time of leiſure, a vacant idle time (which no time ſhould be, the leaſt minute whereof is too much to give to idleneſs or ſin, which is all one, the one is the mother, the other the daughter) his mea<g ref="char:EOLhyphen"/>ning i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, A good Miniſter ſhould take all the advantages to doe good: why then, take the ſeaſon, give the people their expe<g ref="char:EOLhyphen"/>ctation, a <hi>Sermon</hi> on this day, ſo we may do, and do well too as he may chooſe his Text, and handle it before the people (which will be ſure enough, if he be a good Miniſter and a Godly man too) to throw out the obſervation of this day, their ſuper<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>iti<g ref="char:EOLhyphen"/>ons her in, and their heatheniſh cuſtomes, all that time along, (which wil not be a good Sermon in the peopl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s eares.) But if this Sermon be for the holding up of that day, the greater the concourſe of people ſhall be, the more hurt and miſchieſe he will do by his Sermon. It is the word of inſtitution from the <hi>Lord,</hi> that makes the day holy. And the <hi>words</hi> which the Miniſter ſpeaks to the people, muſt have a <hi>word</hi> from God for it, elſe no <hi>word</hi> of bleſſing can be expected from the Lord upon it. Gods word of bleſſing goeth along wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h his word of inſtitution; So now we have done with the firſt undertaking to juſtifie our Lords pract<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſe.</p>
+               <p>(2) The ſecond is, that the feaſt of Dedication cannot juſtifie <note place="margin">Sect. 5.</note>
+                  <pb n="10" facs="tcp:118974:8"/> the obſervation of this imagenary feaſt <hi>deviſed</hi> of our own heart, as <hi>Jeroboams</hi> was, celebrated as a memorial of our Saviours <hi>Na<g ref="char:EOLhyphen"/>tivity.</hi> Our Reaſon is but one, and we a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e not careful to ſ<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ek, another for this place: This Dedication feaſt was a known, ſet, and ſtated day, returning every year in the return of ſuch a month, and of ſuch a day of the month, the Temple was reformed, pur<g ref="char:EOLhyphen"/>ged, dedicated. It cannot be ſo ſaid of this day, that it was the day on which our bleſſed Lord and Saviour was born into the world. It is true many have been daring this way, and one a<g ref="char:EOLhyphen"/>mong the reſt in ſome of our hearing, from <hi>Luk.</hi> 2. 11. unto you is born this day (the 25. of <hi>December)</hi> But how hath God left them to their own ſeeking? how bewildred have they been? how benighted at noon day? declaring to all whom the Lord hath inſtucted to diſc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etion, that there is no morning in them; no light at all except it be that which is in the grave, <hi>where the light is as darkneſſe,</hi> and how great is that darkneſs? we take leave to ſpeak more to this. And,</p>
+               <p>That it hath poſed the beſt ſchollers in the world, we mean <note place="margin">Sect. 6. ¶. 2.</note> beſt ſeen in the Records of antient times, the two <hi>Scaligers,</hi> the Father and the Son, to ſearch out our <hi>bleſſed Saviours birth day;</hi> and after long ſearch (we ſpeak it to our beſt remembrance, as we are helped by one that read it thirty yeares agone, and ſo ſome miſtake may be, we were ſaying after much ſearch) to little purpoſe they gave i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> off, as impoſſible to finde it out, as to finde the Philoſophers ſtone, as <hi>Moſes his grave,</hi> whom the Lord God buried there. Others not halfe ſo skilful, have adventured on this Search (as ever, the more blind, the more bold) and have given us the ſet and ſtated day, as you finde it in your Alma<g ref="char:EOLhyphen"/>nick, miſtaken as much in the day as in the weather; So as the proverb may be verified of theſe <hi>Searchers,</hi> as very lyars as the Alman<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ck is, which for one truth tells us ten lyes. The wiſe Go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> befooling the Star-g<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>zers, ſtill as once he did him in antient days (ſo that noble <hi>Morneus</hi> tells us) who foretold a goodly and pleaſant year, the very year when the flood came, that Deluge of wrath, which ſwallowed up <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll. <hi>Princes,</hi> (as one ſaith) <hi>keep State in their works,</hi> I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>all a mans-actions be level to the loweſt, his perſon will be ſo too.</hi> Much more the Prince of the Kings of the earth, as he doth not love to let the Creature look
+<pb n="11" facs="tcp:118974:8"/> to <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ha<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#UOM" extent="1+ words">
+                     <desc>〈◊…〉</desc>
+                  </gap> his deſigns, but hideth himſelfe, and as we may ſay, troubleth and muddeth his foot-ſteps; theſe are as in the great waters, not p<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly known to us; the creature ſhall not ken them, leaſt he ſhould ſay, <hi>behold I know them:</hi> So alſo this <note place="margin">Iſa. 45. 15. 58. 7.</note> onely Lord of time liketh it not, that we ſhould preſume to know any more of the times and ſeaſons then he alloweth us to know, which is neither more nor leſſe then what he hath revealed to us in his word. <hi>This ſufficeth u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> to know, when the fulneſſe of time was come, God ſent forth his Son made of a Woman.</hi> Make we a full ſtop there; But if we will ſearch farther, which is our du<g ref="char:EOLhyphen"/>ty to do, (ſearch we this to the bottom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and h<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re we may <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ai<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the very day to) Is he <hi>born in our hearts?</hi> we mean, is hee <note place="margin">Gal. 4. 19.</note> conceived? is he formed in us? as our godly Miniſters are: have we been in travel about it? that the ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ing knowl<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dge of Chriſt may be formed in us? till this be we are not <hi>forme<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> for Chriſtians; we may have a <hi>
+                     <gap reason="illegible" resp="#UOM" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>me we live,</hi> but we are <hi>d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ad,</hi> And when we are upon this ſearch, it will take up ſo much of our time, that we ſhall not have a minute to ſpare in ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ching out the day he was born in the world: Nor ſhall we regard two ſtraws what others ſay of it, that dares ſay and do any thing but what they ſhould ſay and do, which ſhould not be a <hi>word</hi> or a <hi>work</hi> more, but by warrant from his Word and light there, which muſt be the Standard, whereat we <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> all we ſay or do in the matters of God, the neereſt con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#UOM" extent="6 letters">
+                     <desc>••••••</desc>
+                  </gap>t of his Glory and of our own Souls; for you know <hi>non loquenaum eſt de Deo ſine lumine.</hi> We will cloſe this quickly, we have bene longer in it, becauſe here is ſomething of the Scripture, and from the practiſe of our bleſſed Saviour, to bear out the obſervation of this day. Therefore we would adde this to that before, which indeed carrieth much with us.</p>
+               <p>2. That this birth day of Chriſt in the world, lyeth as hid<g ref="char:EOLhyphen"/>den, <note place="margin">S<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ct. 7. ¶. 1.</note> and as we may ſay buried to us, as <hi>Moſes</hi> body was: and the ſame God hid the one who buried the other: And wi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l he take it well, if we ſearch into that he hath hi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>? and is it not ob<g ref="char:EOLhyphen"/>ſervable, that none of the Evangeliſts tell us what ſhape or pro<g ref="char:EOLhyphen"/>portion our Lords body had; that none might adventure to picture him ſure; for he that pictureth him a <hi>Man,</hi> diſhonou<g ref="char:EOLhyphen"/>reth him as much, as if he had pictured him a <hi>Worm:</hi> as he that
+<pb n="12" facs="tcp:118974:9"/> preſumeth to ſhew us the likeneſſe of God by an Angel, diſhonou<g ref="char:EOLhyphen"/>reth God as much as they, who made him like a <hi>Calfe,</hi> if we do make him like <hi>any thing,</hi> we make him <hi>nothing.</hi> And ſo of this day: there is <hi>altum ſilentium, ne <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> quidem,</hi> not a ſyl<g ref="char:EOLhyphen"/>lable, not a <hi>title</hi> ſounding that way. And hath the Lord God hid it from us, among the <hi>ſecrets of his wiſedom?</hi> He hath. Then it is <hi>folly</hi> and more: it is <hi>màdneſſe</hi> for a man to ſearch into thoſe ſecrets, to pluck out that <hi>Day</hi> thence, and ſhew it openly to the world, <hi>this is the day.</hi> The Sun will not be looked into, nor gazed upon, it is ſuch a <hi>vehemens ſenſibile,</hi> that it will make the eye ſtark blind, which is <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eadfaſtly fixed upon the ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſide of it. You may ſee, work, and walk by it, the light from it: but if you wil ſee <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nto the body of this light, you ſhall neither ſee it, nor your work, nor your walk, for the Sun will put out the eye that dares ſo gaze upon it. And will the Maker of the Sun, the <hi>Father of lights,</hi> ſuffer man, wre<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ched man, to neglect things revealed (for that is th<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> manner) and ſearch into things hidden, the ſecrets of his Wiſedome? we leave this upon your inmoſt thoughts. We will end with this plaine ſaying, and ſo the better befitting us: <hi>Where the Scripture hath no tongus, we muſt have no ears.</hi>
+               </p>
+               <p>The Scripture is ſilent here as to the day of Chriſt birth, if we will be ſpeaking to it, it is not ſpeaking, but prating and talking like Children and foole<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>; or if we ſhall think that ſomething we <note place="margin">Tim. 5 13. 3 Joh. 10.</note> have done, we have but <hi>magno niſu ſu nugas,</hi> thrown a Feather with ſtrongth of arm. And ſo we are come off from your Scrip<g ref="char:EOLhyphen"/>ture Argument, taken from the practiſe of our Lord Jeſus Chriſt going up to <hi>Jeruſalem</hi> at the feaſt of Dedication. This proves no more, as we conceive, the obſervation of Chriſtmas feaſt, then mid-day proves it is mid night, or mid night proves it is mid-day with us.</p>
+            </div>
+            <div n="3" type="chapter">
+               <pb n="13" facs="tcp:118974:9"/>
+               <head>CHAP. III.</head>
+               <p>HAving now don with your Scripture Proof, ſuch as it was, <note place="margin">Sect. 1.</note> and proved it (we think) to be invalid, of no fore, and to prove nothing but what makes againſt you: We doube not, but we ſhall turn over that which followeth, with a lighter hand, which is, your allegations from the writings and practiſe of men; for be they in repute never ſo holy, it is not much with ns, what they ſay or do, as to thoſe matters; the very beſt of them are but men at the beſt: Yet we will hear what you ſay of them, They have kept the Day holy, and they have maintained their ſo doing by their writings.</p>
+               <p>This now we take upon your bare word, as it is meet for us to do: And we ſhall not here remind you what was ſpoken touching the Torrent of former times; <hi>Tyranny</hi> of Cuſtome, practiſe of our fore-men, or leaders. <hi>&amp;c.</hi> bearing down, like a ſpring-tide, or Torrent, all before it. We do not doubt but the Day hath been obſerved by ſome, with all obſervation, and with an honeſt heart: And poſſibly at this day, ſome o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e or two may be found, we know not where, who can ſay as to the ob<g ref="char:EOLhyphen"/>ſervation of this day, as <hi>Abimelech</hi> in a different cauſe, in the <hi>ſimplicity of my heart;</hi> we <hi>have,</hi> and do <hi>now obſerve this day.</hi> But <hi>aliquid dicit nil probat.</hi> This proves nothing, though in<g ref="char:EOLhyphen"/>deed had you not told us ſo, we could not have beleeved it ſo to be: Tha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> many learned and godly hold for that day. We verily thought that here one, and there one learned and godly, had be<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n too many by two, to hold the obſervation of that day, as was hinted before. You mentioned, if we forget not, Reverend <hi>Studder,</hi> ſpeaking ſomething that way, how long ſince we can<g ref="char:EOLhyphen"/>not tell; but ſure it was before ſome of us were born; dark times then, or not ſo light as theſe are now: You remembred alſo, for it makes for your purpoſe, That Dr. <hi>Ham</hi> hath ſpoke<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <pb n="14" facs="tcp:118974:10"/> much that way after his manner, and doth <hi>operoſè</hi> contend for the holineſs of that day. He is as in charity may be judged, a god<g ref="char:EOLhyphen"/>ly man, as may be evidenced by his <hi>practical Catechiſms;</hi> and his anſwer to Dr. <hi>Cheniel,</hi> taking, as ſome may ſay, ſome incon<g ref="char:EOLhyphen"/>ſiderable exceptions againſt it: His good learning, right under<g ref="char:EOLhyphen"/>ſtanding, and ſound judgment in the <hi>myſtery of godlineſs,</hi> may appear alſo in his Scripture Expoſitions, or Anotations thereup<g ref="char:EOLhyphen"/>on, very well becoming, in whole and in part, an <hi>Admirer of Grotius.</hi> But whatſoever he be, how learned and godly ſoever, it maketh no matter to us; for <hi>Mans ſaying,</hi> is but the ſay<g ref="char:EOLhyphen"/>ing of a man: <hi>Grotius</hi> himſelf, that Admired man, had his fail<g ref="char:EOLhyphen"/>ings ſome might add, and very groſs ones, ſpeaking very much without <hi>the Book,</hi> ſome may ſay, and very much againſt what he found writte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>: So poſſibly might his Admirer too. But as to that matter now under dehate, you can tell us what Anſwer hath been made to that ſaid learned Man, by one learned and go<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ly alſo, we think without exception. We ſhould not have men<g ref="char:EOLhyphen"/>tioned all this or any of it, had we not p<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rc<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ived you ſpo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>king a little, and a little might be too much, in favour of this day; enough of this. We have a cloud of witneſſes, onely mind we it well, that we follow the light ſide of the Cloud, and ſo, ac<g ref="char:EOLhyphen"/>cording to the Counſel, <hi>Be followers of them, who through faith and patience inherit the promiſes.</hi>
+               </p>
+               <p>We muſt remember here your wholeſom counſel, in reference <note place="margin">Sect. 2.</note> to this day, and thanking you for it, ſpeak a word to it. You would have out Miniſter deal in <hi>neceſſary</hi> things, and not to pronounce or define matters of doubtful conſtruction, or things that neither help nor hinder, whether they be ſo or no. You pro<g ref="char:EOLhyphen"/>poſed alſo an example of a very excellent man; the <hi>oldeſt Deſci<g ref="char:EOLhyphen"/>ple</hi> the Lord Chriſt had in this N<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tion; and we beleeve made as many, gaining them to Chriſt, as any of his fellow workman there. We ſhall take it in anon after, in its order. Truly we like this counſel the better, becauſe it ſavoure h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo much o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ex<g ref="char:EOLhyphen"/>cellent <hi>Tindals</hi> ſpirit, breathed forth in a L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tter, to his dear Friend <hi>Jacob,</hi> indeed called <hi>John Frith.</hi> It is very good, what he ſpake once to hear it twice, with the ſenſible and inte<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l Ctual ear both: <hi>There is not a man in the warld, in whom my heart rejoyceth as in you; not the thouſand part ſo much for your</hi>
+                  <pb n="15" facs="tcp:118974:10"/> 
+                  <hi>learning, and what other gifts elſe you have, as that you will creep alow with the ground, and walk in thoſe things that the</hi> conſcience <hi>may feel, and not the imaginations of the brain; In fear and not in boldneſs; In open neceſſary things; but in things that may abide leiſure, you will defer: In unity, and not in ſeditiou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> opinions.</hi> We ſhall not willingly turn from our ſcope, if we ſet down here the two heads of Doctrine, which he would have <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i, dear friend preſs upon his hearers: <hi>expound the Law truly, and open the Vail oſ</hi> Moſes <hi>to condemn all fleſh and prove all men ſinners, and all deeds under the Law, before mercy hath taken away the condemnation thereof to be ſin and d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>mnable; and then as a faithful Miniſter,</hi> ſet abroach the mercy <hi>of onr Lord Jeſus, and let the wounded conſciences drink of the water of him. And all Doctrine that caſteth a miſt on theſe, to ſhadow and hide them, I mean, the</hi> Law of God, and Mercy of Chriſt, <hi>that reſiſt you, with all your power; and ſhew you Scriptures for what you ſpeak: and let Adverſaries talk what they will, ſtick you ſtifly and ſtubbornly, in earneſt and neceſſary things.</hi>
+               </p>
+               <p>Sir, Your ſavory words by way of good counſel to our Pa<g ref="char:EOLhyphen"/>ſtor, put us in mind of thoſe, and we bleſs God for it, that al <note place="margin">Sect. 3.</note> this fell in together with your good counſel. Now it is a point of high diſcretion (too high for us, unleſs the moſt high God for ever more come into us) where to take and where to leave. But according to our meaſure, thus we underſtand matters with reference, as your words tended to the obſervation of that day. That the taking an hours time at the fitteſt ſeaſon for the throw<g ref="char:EOLhyphen"/>ing down that <hi>Idol day,</hi> ſo highly exalted, by brutiſhly ignorant perſons, is not againſt the mind of Chriſt, or rule given us in his word or practiſe of his holy ones, all along the Scriptures of God, and ages of men: None preacht Chriſt Crucified more feelingly then <hi>Paul</hi> did? and none to our ſeeming, doth ſo thunder and lighten as he doth againſt thoſe falſe Teachers, who preached up <hi>Circumciſion,</hi> and the <hi>obſervation of days;</hi> ſo as he proteſted before them in ſome heat of ſpirit (for as he had much light, ſo h<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d he much heat too) much after the rate of thoſe words, That if they drank in thoſe da<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nable Doctrines, they would <hi>ſpew</hi> out Chriſt, or caſt their ſpewings upon him. And for the obſerva<g ref="char:EOLhyphen"/>tion
+<pb n="16" facs="tcp:118974:11"/> of days, he ſpeaks much after the ſame rate; They had in<g ref="char:EOLhyphen"/>deed the ſtamp of God upon them (ſo hath not this day where<g ref="char:EOLhyphen"/>of hereafter) and were to be obſerved with all obſervatio<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, hol<g ref="char:EOLhyphen"/>ding forth to the eye of faith the <hi>Day of Chriſt</hi> to come into the world. But when that day came, called by the Apoſtle the <hi>ful<g ref="char:EOLhyphen"/>neſs of time,</hi> and he was exhibited and <hi>manifeſt in the</hi> fleſh, then the obſervation of days muſt ceaſe, and the ſtamp or inſtitution of God before upon them, ſhall be taken off from them; and a curſe ſtampt upon thoſe perſons, which, without repentance, ſhall cleave unto them that will be ſo daringly bold, as to revive the memory of thoſe days, and give their obſervation to them. And to all this (which we may find through out the Epiſtle, be<g ref="char:EOLhyphen"/>ginning at the firſt Chapter, 8. 9. verſes) he addeth, That if they did obſerve days, they could not obſerve his words, ſo all his pains was loſt upon them: he had beſtowed upon <hi>them labor in vain. I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>deed</hi> Sir, This Obſervation you wot of is not of doubt<g ref="char:EOLhyphen"/>ful conſtruction, nor in the number of thoſe matters, which may abide leiſure for determination. We thought it reſolved long ago, from the Word of God: <hi>The Day</hi> is not to be obſerved which hath no word or command for it: What the State hath done as to the obſervation of that Day, is known to all that would know: what the State will do more we know not; but this you know, for we ſuppoſe you have read, <hi>Chriſt will not wait the leiſure of the State;</hi> and all true Chriſtians have the mind of Chriſt, ſo that is their mind too. Yet as was ſaid in ano<g ref="char:EOLhyphen"/>ther caſe, and to allude to it, what ſhould the State do <hi>after the King</hi> of Kings hath ſo clearly reſolved the caſe, as to the obſer<g ref="char:EOLhyphen"/>vation onely of his Holy-Day, returning to us once a Week: <hi>qui deliberavit, deſivit:</hi> He that makes queſtion here, is a ſuperſti<g ref="char:EOLhyphen"/>tious perſon, paſt all queſtion. But more neceſſary truths are to be preached firſt, ſay you: We grant you, If there be a more neceſſary truth then this, That what oppoſeth our Lord Chriſts his truths, muſt be thruſt away as an abomination: Let that be preached firſt, but then this muſt follow: for we are peaſwad<g ref="char:EOLhyphen"/>ed, no one thing more hindreth the Goſpel work, all the year long, then doth the obſervation of that Idol day once in a year, having ſo many days of curſed obſervation with it. It was ſmart<g ref="char:EOLhyphen"/>ly ſpoken by a Heathen man, and as wittily, for ſo Heathen
+<pb n="17" facs="tcp:118974:11"/> Chriſtians were reproved in ancient days, rioting in <hi>December:</hi> 
+                  <note place="margin">December menſis erat nune anuus eſt</note> 
+                  <hi>It was a Moneth returning once a yeer, before thoſe Chriſtians came amongſt us;</hi> but now <hi>December is all the year long.</hi>
+               </p>
+               <p>But we will not prevent our ſelves. <hi>WHAT</hi> did Father <hi>Dod,</hi> in a caſe very different from ours, whoſe pretious name is like an oyn<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ment poured out, no ſooner named, but the place is filled with the ſavour thereof, what did he? Thus, as we have heard, (onely a miſtake there may be, but not conſiderable be<g ref="char:EOLhyphen"/>twix: your relation and ours) being to deal with a great Man, that had an head of hair, <hi>Abſolom-</hi>like, ſo we read (with a Lady ſo, if we miſtake not, gariſhly attired you read) ſeeks in the firſt place to hide pride from his eyes, and take down that Idol in the heart.</p>
+               <p>A ſure way ſure, for if the Idol within falls, it will not ſtand without. This was the way that <hi>Luther</hi> took alſo, he would not contend with the Popes <hi>Miter,</hi> or the Monks <hi>Bellies;</hi> nei<g ref="char:EOLhyphen"/>ther the one nor the other had any cars; and it were as if a man would buffet a way the darkneſs: he would preach Chriſt Jeſus the Lord unto them, which is, as the b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inging of light into a <note place="margin">
+                     <hi>Principate crimen ge<g ref="char:EOLhyphen"/>ner is huma<g ref="char:EOLhyphen"/>ni ſummus ſiculi reasus tota cauſa judicii Ido<g ref="char:EOLhyphen"/>latrie.</hi> It is the princi<g ref="char:EOLhyphen"/>pal hainous crime of mankind: It is the chief guilt of the world, and the onely or whole cauſe of judgment in the world Idolat. <hi>Tert.</hi>
+                  </note> dark place, the darkneſs is gone, for the light is come: And yet he that ſhall read his Sermons, will find, that this was his practiſe, as it was, (if we miſtake not his counſe) <hi>omnis ſermo adaptandus eſt contra Idolatriam,</hi> every Sermon muſt be pointed againſt Idolatry: And truly, many a by-blow did he lay upon e<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rors, while he was holding out the truth; As a Miniſter may ſtrike down that day, by holding up the Lords. Day. And yet ſometimes he, as a good Miniſter may do, may take a Text pur<g ref="char:EOLhyphen"/>poſely for the throwi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g down the Idol before the eye, as of that in the heart, wherefore elſe have we that choiſe in the Scriptures? <hi>Luther</hi> had to deal, as our Miniſters now, wi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h no<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> very intelli<g ref="char:EOLhyphen"/>gent and underſtanding people, being enemies to the Croſs of Chriſt, making their <hi>Belly their God,</hi> and their ſhame their glo<g ref="char:EOLhyphen"/>ry: Therefore the people, at we now, were very <hi>horn skinned,</hi> they feel you not till you pierce them to the quick; when is that? when you ſtrike at their <hi>Heatheniſh Cuſtomes,</hi> and their <hi>Belly chear:</hi> they feel no quick fleſh, till then: And ſo having in deſire and endeavour made the beſt uſe of your good counſel; we come to make proof from the holy Scriptures; That it is the du<g ref="char:EOLhyphen"/>ty
+<pb n="18" facs="tcp:118974:12"/> of every good Miniſter to bend his ſpeech, when the ſeaſon is againſt the obſervation of this Idol-day.</p>
+            </div>
+            <div n="4" type="chapter">
+               <head>CHAP. IV.</head>
+               <p>For the firſt, how elſe ſhall he diſcharge a good conſcience? <note place="margin">Sect. 1.</note> or anſwer his matters to God? The people go on holding faſt to their Heatheniſh Cuſtomes, and abominable Idolatries, and think they do well: They never heard their Miniſter repro<g ref="char:EOLhyphen"/>ving it, or reſtraining them from it: The Miniſter knows if he knows any thing in theſe matters, whence our <hi>Feaſts</hi> (as the days of the week, and moneths of the year, commonly called) had their firſt riſe, ground or original. The firſt of <hi>November, a memorial of all their Gods;</hi> which ſounded not well in the ears of thoſe that were newly b<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>come Chriſtians: change therefore the name, and for <hi>Gods</hi> ſay <hi>Saints;</hi> and keep your Feaſts ſtill, In <hi>December</hi> they had their <hi>Saturnalia,</hi> and eight days to ce<g ref="char:EOLhyphen"/>lebrate their <hi>Feaſt;</hi> but being newly turned from Paganiſm, they muſt not keep the Feaſt as they did before, to the honour of <hi>Sa<g ref="char:EOLhyphen"/>turn,</hi> but of <hi>Chriſt,</hi> (ſhould we mention theſe things and not with indignation?) and to gratifie them further upon that ſcore, they ſhould have four days added to the number; before but eight, now twelve, very pleaſing to the people then, as now: for who ever heard them ſay, as of the Lords Day, <hi>what a wea<g ref="char:EOLhyphen"/>rineſs?</hi> It is not pleaſing to us to proceed to tell you theſe mat<g ref="char:EOLhyphen"/>ters which you muſt know much better then ſome of us, though you have read but only <hi>Poludore Virgil,</hi> ſuffiſeth it to know, That theſe <hi>Feſts</hi> are <hi>Heatheniſh</hi> not <hi>Chriſtian:</hi> And ſo it hath been obſerved over ſince in an Heatheniſh manner, quite c<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ntrary, and ſhaming Chriſtians; n<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y they were a ſhame to the very Hea<g ref="char:EOLhyphen"/>then too, the better part of them, and the more mo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>alized men: for one among the reſt you know, ſaith <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hus of them: <hi>Chriſti<g ref="char:EOLhyphen"/>ans are mad once a year,</hi> that is in the Moneth of <hi>December;</hi> nay, they are ſo habi<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed to a <hi>ranting</hi> faſhion that Moneth,
+<pb n="19" facs="tcp:118974:12"/> that they are ſcarce ſober all the year after: <hi>December was but one Moneth, now it is a yeer;</hi> it hath been ſpoken twice, that ye might hear it once, and <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ell the people the very truth in this matter, That they honour the Devil ſo devou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly at that time, that they cannot ceaſe from his worſhip, no more then he or they <gap reason="illegible" resp="#APEX" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>ceaſe from ſin</hi> all the year after. We will ſupply you with an Argument or two more ſince you have put this ſervice upon us whereby to throw down this Idol day.</p>
+               <p>Hear how the people cry it up? It is certainly a day of their <note place="margin">Sect. 2.</note> own, as their ſin is, they like it ſo well; were there any thing of God in it, we mean, had it Gods ſtamp upon it, how would they abhor it! how would they riſe up in indignation againſt it? as they do againſt the obſervation of the Lords Day? The Ruler in the Country Town, or City, may (we hear they did not) ſave his breath in forbidding marketting on that Idol day: (clean contrary, that <hi>December,</hi> 1652. reſolved by the Parliament, that the Marqu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ts be kept to morrow, being the 25 of <hi>Decem<g ref="char:EOLhyphen"/>ber,</hi> and that no obſervation ſhall be had of the Day, commonly called Chriſtmas Day, nor any Solemnity uſed or exerciſed in Churches upon that Day, in reſpect thereof) we were ſaying, The <hi>Ruler</hi> need not forbid Marquetting on that day, but how hardly have they been kept from keeping Fairs on the Lords-Day? Excellent <hi>Perkins</hi> will tell you, if you pleaſe to conſult with his writings: would you have a viſible Character of Gods way and his Command to walk in it? of mans way and his command to walk therein? Aſſuredly this is it: There is a <hi>ſpirit</hi> of <hi>oppoſition</hi> againſt the way that God hath ſet; there is a riſing of the heart with indignation againſt any thing; every thing that hath God in it: the ſtamp of God upon it. But now for mans way, a way of ſin and death, how pleaſing in mans eye? And if a Ruler ſhall give a command for it, he will not do it ſure, or if he have, he will ſhame himſelf before the Lord for what he hath done; for he that ruleth over men, muſt be juſt, command and do juſt things: I but if he do command ſuch a thing, we will (that have not another ſpirit) follow the Commandment: <hi>Non ju<g ref="char:EOLhyphen"/>bentur</hi> 
+                  <note place="margin">Aug. de Civ. Dei lib. 1. dec. l. 1.</note> 
+                  <hi>dura non prohibenter impura,</hi> no hard things are com<g ref="char:EOLhyphen"/>manded no unclean things are forbiden: to uſe <hi>Aug.</hi> words, ſit <hi>down to eat,</hi> and <hi>drink, and riſe up to play;</hi> what more pleaſ<g ref="char:EOLhyphen"/>ing
+<pb n="20" facs="tcp:118974:13"/> or deſireable to fleſh and blood? Indeed we need not a com<g ref="char:EOLhyphen"/>mand for it, our natural courſe is to run from God, as the ſtream runs from the Fountain: but when we have a commandment for it, as ſo daring man may be: then we are carryed ſtorm-like, or like a mighty Torrent, wind and tide with us: And now if an Almighty Hand give us no check by the way, we ſhall arrive at our own place, as ſoon as the ſtream will be at its Center the Sea; for we have but a <hi>velliety,</hi> a faint will or wiſh Heaven<g ref="char:EOLhyphen"/>ward: The will in the ſtrength and power of it, beareth us down Hell-wa<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d: The Argument is ſtrong and will hold: There is nothing of God in the obſervation of this Day, for the men of the world, of a national Church there (who have nothing to plead for their Chriſtianity, but that they were born Chriſtians, being bapiz<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d preſently after they were born) without <hi>Chriſt, Aliens</hi> from <hi>the Covenant,</hi> ſtrangers <hi>to the promiſes</hi> without hope ſurely <hi>ſet</hi> and <hi>ſetling,</hi> without God in the world, theſe men of the world obſerve this Day; there is nothing of God in it, for what is of God they abhor, their hearts are carryed out in oppoſition againſt it: But it is of the <hi>will</hi> of man and of the <hi>fleſh,</hi> and moſt pleaſing to the fleſh, Feaſts and merry m<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>tings are: It is not of God, but of him that is the god of the world, and rule<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> in the darkneſs of the world, mightily in the children of diſobedience: What is of God, we mea<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> every Command<g ref="char:EOLhyphen"/>ment of God: <hi>jubet dura,</hi> he commands ha<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d things, grievous to be born, yea impoſſible to fleſh and blood: They will not move it with one of their fingers, <hi>i. e.</hi> not practiſe them in the leaſt degree, being yet not ſubdued, not conquered, <hi>The carnal mind,</hi> the godli<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſs thereof, the moſt excellent thing there, is <note place="margin">
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>
+                  </note> 
+                  <hi>enmity</hi> againſt God, it deadly hateth and monſtrouſly oppoſeth <note place="margin">Rom. 8. 7. <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> 
+                     <hi>See Beza, Mr. P. G.</hi>
+                  </note> God: nay the word is plural, <hi>enmities</hi> againſt God, importing as one ſaith, multiplied perverſneſs. As there are many <hi>excel<g ref="char:EOLhyphen"/>lencies</hi> in God for man, ſo there are many <hi>enmities</hi> in man againſt God, enmities againſt all the Atitibutes of God, enmities againſt all the Ordinances of God: ſo many commands, ſo many en<g ref="char:EOLhyphen"/>mities, ſaith <hi>Salvian:</hi> enmities againſt all the actings of God in the world. The ſpirit of man from his birth, is bitterly bent and utterly turned againſt God: he doth act up his ſpirit in re<g ref="char:EOLhyphen"/>bellion againſt God, bleſſed for ever: nor is it poſſible to be
+<pb n="21" facs="tcp:118974:13"/> otherwiſe till this <hi>enmity</hi> be ſlain; and ſo it follows, This car<g ref="char:EOLhyphen"/>nal mind is not ſubject to the Law of God, neither indeed can be; for the Law of God <hi>prohibet impura,</hi> it forbids all impurity, be ye ſeparate from among them, and <hi>touch</hi> not the <hi>unclean</hi> thing. Thus we have the diſtinguiſhing Character, <hi>what is of God, what is of Man.</hi> The heart riſeth up with indignation, againſt that which is of God. It runs out with the Commandments of man, theſe never put the fleſh to coſt.</p>
+            </div>
+            <div n="5" type="chapter">
+               <head>CHAP. V.</head>
+               <p>
+                  <hi>Queſt.</hi> THen happily it may be ſaid, are not <hi>faſting</hi> days, and <note place="margin">Sect. 1.</note> thanksgiving days <hi>(loquendum eſt cum vu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>go)</hi> ap<g ref="char:EOLhyphen"/>pointed by man? and being ſo appoin<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed do not theſe command obſervation from men?</p>
+               <p>
+                  <hi>Anſw.</hi> Surely yes, when it is appointed of God, that men <note place="margin">
+                     <hi>A Governor is not impe<g ref="char:EOLhyphen"/>rious, but where his command is injurious, nor is there pride, but when due di<g ref="char:EOLhyphen"/>ſcipline is neglected and contem<g ref="char:EOLhyphen"/>ned.</hi> Auſtins <hi>Latine en<g ref="char:EOLhyphen"/>gliſhed by Mr.</hi> P. G. 206.</note> ſhould appoint ſuch days, faſting days, wherein to <hi>afflict the ſoul</hi> before God for all we have done againſt him: And <hi>feaſting dayes</hi> called <hi>good days</hi> in Scripture, wherein to lift up the high praiſes of our God for the riches of his goodneſs towards us all, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (in ſpecial) for the wonderful Salvations he hath wrought for his Church, ſo that in all this we do not more obey man then God: The <hi>State</hi> we mean, our Ruler or Rulers there, may and ought appoint a ſet and ſtated day, whereon to afflict our ſoules before God; and a day alſo whereon to rejoyce, before him. But then they muſt eye and <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bſerve well Gods providence, call<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ng them forth to all this. And ſo here humbly to give our opinion, be<g ref="char:EOLhyphen"/>ing called f<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rth unto it, and pe<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>waſion in this matter, we are perſwaded that our excellent <hi>Burroughs</hi> was right in this thing, That no Chriſtian <hi>State</hi> ſhould appoint a day once every yeare (much leſſe once a month) to be a <hi>faſting</hi> day or a <hi>feaſting</hi> day; and he gives his reaſon, becauſe they do not know, bu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God may call them to rejoycing upon that day, which they have ap<g ref="char:EOLhyphen"/>pointed for mourning. All that the Rulers can do is this, when
+<pb n="22" facs="tcp:118974:14"/> God calleth to faſting, they muſt appoint dayes of faſting; and when God calls to rejoycing, they muſt appoint dayes of rejoy<g ref="char:EOLhyphen"/>cing.</p>
+               <p>
+                  <hi>Queſt.</hi> Why then is not (for we muſt tell you that we have <note place="margin">Sect. 2.</note> heard to juſtifie the obſervation of this f<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtival day) the five and twentieth of <hi>December,</hi> rightly appointed by man? and to bee obſerved by us; thereon to give thanks to God the Father for the marvelous R<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mp<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion wrought for us by his Son Chriſt Jeſus the Lord? I<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> is alwayes ſeaſonable to give thanks to God for this unſpeakable gift, and wonderful Salvation wrought by him; Is it not?</p>
+               <p>
+                  <hi>Anſw.</hi> 1. It is ſo; But why o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ce in the year, which is ſeaſon<g ref="char:EOLhyphen"/>able, yea r<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>quired of us (as we ſhall hear preſently) every day? do we put no difference betwixt a temporal Saviour as <hi>Joſhuah</hi> was, and all thoſe Saviours were and now are, which the Lord hath cauſed to <hi>come up on mount Zion,</hi> to jude the mount of <hi>Eſau?</hi> and him that is the Eternal <hi>Saviour,</hi> and everlaſting <hi>Re<g ref="char:EOLhyphen"/>deemer?</hi> no difference betwixt theſe? though the difference be as great as is betwixt the Creature and the Creator, in whoſe ſtrength of hand the Crea<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>u<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e moves; and doth all, and being laid out of that hand, it moves no more then an inſt<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ument can that is laid out of our hand, and now hangs up by the wall. All our prayers for our Saviours hands, that they may be ſufficient for them, will prevail nothing, unleſſe we pray this may be ad<g ref="char:EOLhyphen"/>ded, <hi>And be thou an help to them,</hi> D<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut. 33. 7. No difference then betwixt <hi>men-Saviours</hi> and the Lord God the Salvation of his people? upon which bottom God builds up as we may have leave to ſay all the <hi>piles</hi> and <hi>ſtories</hi> of Salvation? What? <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o difference betwixt the Salvation of our bodies and outward man and the concernments hereof, and the Salvation of ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Eter<g ref="char:EOLhyphen"/>nal Soules? ſurely the people of God, the redeemed of the Lord diſcern a marvelous difference here, and accordingly they behave themſelves as to theſe matters, not keeping a day once a yeare for a memoral of theſe things.</p>
+               <p>
+                  <hi>Anſw.</hi> 2. We ſay, That this is an high preſumption to ap<g ref="char:EOLhyphen"/>point a day once in the year, whereon to honour the Son, as if man were more regard<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul of the Sons honour, then the Father is, though he hath commanded <hi>that all men ſhould honour the</hi> 
+                  <note place="margin">
+                     <hi>John</hi> 5. 23.</note>
+                  <pb n="23" facs="tcp:118974:14"/> 
+                  <hi>Son, even as they honour the Father.</hi> Now to doe more then is commanded, is as diſpleaſing unto God as to do leſſe. The Father was honoured by the obſervation of one day returning once a week, whereon his people made his name glorious for the work of Creation. And hath appointed his Son to be honoured w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th a day alſo, wherein his people ſing the high praiſes of their God for the—glorious work of Redemption, making all new, Heavens and Earth and all.</p>
+               <p>Yea but this is not enough, ſaith preſumptious man, the <hi>Son</hi> ſhall have two dayes, the one returning once a week, the other once in the year: if this be not the higheſt preſumption, what is?</p>
+               <p>Be we at the allowance of the onely wiſe God? he is all ſuf<g ref="char:EOLhyphen"/>ficient to provide for his Sons honour, and for his Churches ho<g ref="char:EOLhyphen"/>nor <note place="margin">† 1.</note> too; Sons and Daughters adopted in him, they ſhall have a day, a ſtated day, return unto them once a week, whereon to record the whole <hi>hum<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>liation</hi> of Chriſt, his <hi>incarnation,</hi> ſorrow<g ref="char:EOLhyphen"/>full <hi>life,</hi> curſed <hi>death,</hi> his Reſurrection alſo, with his Aſcenſion and Interceſſion, for is Chriſt divided? or have we need of a part and not of the whole? we muſt not parcel out his Re<g ref="char:EOLhyphen"/>demption, wrought for us, taking it out by pieces, and appoint one day for a memorial of his <hi>birth,</hi> another of his <hi>death,</hi> a third of his <hi>reſurrecti<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n:</hi> No, there is one day appointed for all this, to be a memorial of all together, the day of his Reſu<g ref="char:EOLhyphen"/>rection, appointed by God, as the old Sabbath wa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> to be a <hi>ſign betwixt the Lord and his people,</hi> That <hi>he is the Lord God that ſanctified them,</hi> affording unto them the means of Sanctifi<g ref="char:EOLhyphen"/>cation in his Son preached on that ſtated day, wherein we are to ſanctifie a <hi>Reſt,</hi> that we may attend upon God in the Con<g ref="char:EOLhyphen"/>ſcionable uſe of means, for our ſanctification, whoſe <hi>will</hi> and <hi>work</hi> it is.</p>
+               <p>And ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e yet farther, how the <hi>Father</hi> hath provided for his <note place="margin">† 2.</note> Sons honour, he hath not onely appointed a day wherein by his Herolds to proclaim him to the world, and ſalvation by him; but alſo thus th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Father hath appointed, That whenſoever we call him Father, we muſt call his Son Lord; and through him and his Mediat<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, have acceſſe unto him, and acceptance with him. So then, whenſoever we come unto God praying for the ſupply
+<pb n="24" facs="tcp:118974:15"/> of what we want as we are ſtill wanting, or praiſing him for what we have, we muſt make hearty mention of the Lord Chriſt <note place="margin">
+                     <hi>Epiſt. 2. 18. 3. 12. 5. 20. Col. 3. 17. 1 Pet.</hi> 1. 21.</note> here, or elſe all is vain: every time we come to God, we tender up a <hi>Mediatour</hi> to him, elſe we can have nothing from him but wrath and vengeance. O its terrible, ſaith you know who, to <hi>think of God out of Chriſt.</hi> Therefore, ſaith <hi>Luther,</hi> upon Pſal. 130. <q rend="margSglQuotes">I inculcate this to my Hearers, that they ſhould ſhut their eyes and their ears, and ſay we know no God out of Chriſt, nor do we expect the leaſt crumb of mercy, but through him, and for his ſake.</q> So now, ſith in ſeeking he <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ace of our God the great King, we muſt take up his Son in the a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m of our <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>aith, (to allude to that know<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſtory) elſe we ſhall <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ev<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r <gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s face. We have dayly, if not hou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly cauſe to make m<gap reason="illegible" resp="#APEX" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ion of him; And be<g ref="char:EOLhyphen"/>ſides all this we have a <hi>ſtated day</hi> returning <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce a week, whereon we may hear a voice from Heaven, the voice of Chriſt in the Go<g ref="char:EOLhyphen"/>ſpel, and the voice of the Father again <hi>Hear Him.</hi> It is pre<g ref="char:EOLhyphen"/>ſumption <note place="margin">
+                     <hi>John 5. 25. Eph.</hi> 5. 12.</note> then that reaches to Heaven, to appoint a day of our own, whereon to celebrate the memorial of all this.</p>
+               <p>But now ſuppoſe in the laſt place, any of us did as devou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ly ſerve God and his Chriſt on that day, as the moſt of the Natio<g ref="char:EOLhyphen"/>nal <note place="margin">Sect. 3.</note> Church do ſerve the Devil on that day, and the twelve dayes following. Suppoſe it ſo, we did pray to God, and praiſe God all day long, and night alſo (oh how devout are we on the birth day of ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> bl<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſed Savion<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>!) ſuppoſe it ſo, as doub<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>leſs ſuch de<g ref="char:EOLhyphen"/>vout perſons men and women, there may be not a few more de<g ref="char:EOLhyphen"/>vour that day then any day: <gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or it is a day deviſed of our own hearts: we will be devout on that day, how d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſſolu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e ſo<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver on the L<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rds day: the manner of theſe d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vout ones, they will do no manner of work on this day; as they ſay, the <hi>Bird</hi> will no carry a ſtraw to i<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s neſt on Aſcenſion day, it will on the Reſurrection day, though it mour<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> all good Friday. But as we were ſaying, ſuppoſe it ſo, we were as devoue as devotion it ſelfe ou<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> that day, o<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> on ſome of the twelved dayes following. Hear what that ex<g ref="char:EOLhyphen"/>cellently Learned Man D. <hi>Owen</hi> ſaith, for it is not poſſible to find words more fit for our purpoſe. <q rend="margSglQuotes">The moſt ſtopendious endea<g ref="char:EOLhyphen"/>vours of men, the moſt laborious drudgery of their Souls in du<g ref="char:EOLhyphen"/>ties <note place="margin">
+                        <hi>Pag.</hi> 230.</note> not commanded, are ſo far from obedience, that they are as high rebellions againſt God, as they can poſſibly engage them<g ref="char:EOLhyphen"/>ſelves into.</q>
+               </p>
+            </div>
+            <div n="6" type="chapter">
+               <pb n="25" facs="tcp:118974:15"/>
+               <head>CHAP. VI.</head>
+               <p>WEe will now offer four things to your conſiderati<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, hoping you will allow them ſome weight in your ſeri<g ref="char:EOLhyphen"/>our thoughts.</p>
+               <p>God hath aboliſhed his own d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes, Jewiſh we mean, all thoſe feſtivals that had his own ſtamp of inſtitution upon them. And <note place="margin">Sect. 1.</note> can we think, and think like men, that he will give liberty to man to ſet up other dayes, as they did their Idols of old <hi>accor<g ref="char:EOLhyphen"/>ding to their own underſtauding?</hi> If this could be imagined, that upon Gods aboliſhing his own, men ſhould have liberty to ſet up theirs, then the Chriſtians were under a more heavy bondage and grievous paedagogue, then ever the Jewes were: <q>'for it is better to have an hundred days of Gods 'appointment, <note place="margin">
+                        <hi>
+                           <g ref="char:V">Ʋ</g>pon Hoſ.</hi> 2. 403.</note> then one of mans:</q> it is more honourable ſaid excellent <hi>Bur<g ref="char:EOLhyphen"/>roughs.</hi>
+               </p>
+               <p>Conſider whether the <hi>riſing</hi> of this day in the heart, as to the <note place="margin">Sect. 2.</note> obſervation of it, be not the <hi>ſinking</hi> of the Lords day; we mean whether the obſervers of this day; are not moſt notorious pro<g ref="char:EOLhyphen"/>faners of the Lords day? and from both the horrible contempt <note place="margin">Sect. 3.</note> and prophanation of the Lords day; and more then heatheniſh <note place="margin">Bad joy ſtrips God of all. No evil carries the heart ſo totally from God as e<g ref="char:EOLhyphen"/>vil joy. It car<g ref="char:EOLhyphen"/>ries away the heart, and eve<g ref="char:EOLhyphen"/>ry heart ſtring. A man is very heartily, very totally wicke<gap reason="illegible" resp="#APEX" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, every faculty, every ſinnew ſtretch them<g ref="char:EOLhyphen"/>ſelves to ſin when ſinrul in<g ref="char:EOLhyphen"/>joys. Mr. Lockr. Col. 1. p. 234.</note> obſervation of this day, whether a deluge of damnable errors and pernicious opinions threatning a d<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>luge of wrath be not bro<g ref="char:EOLhyphen"/>ken in upon us.</p>
+               <p>Be pleaſed to conſider whether the Devil be ſerved by us ſo affectedly, ſo zealouſly, ſo induſtriouſly, ſo warrantably (as the people think, taking a command from men, and their own luſt for a law) any ſeaſon of the year, as at this ſeaſon? Not to tell you the obſervation of the Heathen, which was hinted before, do men and women ſo exceed in the pleaſures of ſin, in rioting and drunkenneſs, in chambering and wontonneſſe, in all exceſſe of wickedneſs, as they do at this time you call Chriſtmaſs? It is true, the Lords day is fearfully profanned, as if it had its name from the name <hi>Bacchus,</hi> which was <hi>Plutarchs</hi> conceit, that ſigni<g ref="char:EOLhyphen"/>fies to live <hi>jovially,</hi> as we ſay, and to ſpeud the day <hi>riotouſly,</hi> and in mad merriment. Yet they onely ſo ſpend the Lords day, making
+<pb n="26" facs="tcp:118974:16"/> it the Devils day, who are mad upon that Idol day, making it as to their obſervation of it, the Lords day. So true is that ſaying, we are marvelouſly pleaſed with our own inventions, ſpecially thoſe that pleaſeth fleſh (as ſeldom or never do we invent that which croſſeth the fleſh, unleſſe upon an after advantage, which to our ſeeming, ſhall reach as high as heaven, and ſo may croſſe the fleſh at preſent, in hope of after glory, the meritorious pro<g ref="char:EOLhyphen"/>duct of that Croſſe.) You may have read alſo what a Child in years, but a Man in underſtanding hath written. <q rend="margSglQuotes">Mans idle time <note place="margin">
+                        <hi>Mr.</hi> Ven<g ref="char:EOLhyphen"/>
+                        <gap reason="illegible" resp="#APEX" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>ing.</note> is the Devils working time; he doth moſt when men do leaſt.</q> For as holy <hi>Latimer</hi> ſaid after his manner, The Devil hath more ſervice done him in one day we call holy, then in many working dayes. Therefore in the laſt place,</p>
+               <p>Conſider what you may have read, That a whole National Church (how is ours declined now, <hi>&amp; tantum non</hi> unchurched <note place="margin">Sect. 4.</note> her ſelf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>) ſome hundred years ago, appointed a ſolemn <hi>Faſt</hi> up<g ref="char:EOLhyphen"/>on thoſe very dayes; we fooliſhly without a Scripture warrant, call the <hi>birth</hi> and <hi>circumciſion day</hi> of Chriſt, becauſe of the notorious abuſes, heatheniſh cuſtomes, and dam<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ble u<g ref="char:EOLhyphen"/>ſages wont to be upon thoſe days; we ſtrange that they ſaw more clearly in their mid-night then we do in our mid-day; Are we not dark with light? we proceed to tell you our hope, and ſo to an end of this matter.</p>
+            </div>
+            <div n="7" type="chapter">
+               <head>CHAP. VII.</head>
+               <p>WE believe Sir by this time, you ſee cauſe enough to im<g ref="char:EOLhyphen"/>prove all your Rhetorick among your people, for the throwing down of this Idol day. Y<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t if you have not enough, we will make bold to remember you one thing more, and ſo draw to a cloſe, we read the Jewes ſome of them, put this queſtion to themſelves: <q rend="margSglQuotes">What ſhould that ſin be, which provokes God more againſt us then ever he was provoked? ſurely ſaid they, there is ſome greater ſin then we yet have committed,</q> but we cannot finde any offence beſide the killing of Chriſt, to be a grea<g ref="char:EOLhyphen"/>ter
+<pb n="27" facs="tcp:118974:16"/> offence then Idolatry: ſurely then the great ſin is the rejecting and crucifying the Son of God. If we ſhould put this Queſtion to our ſelves, what is the ſin which provokes God more againſt us then ever he was provoked? Judge you whether this muſt not be the anſwer. We reject Chriſt in the offers and tenders of the Goſpel, yet pretend to receive him at the Lords Table; We have no appetite, no deſire after him at the hearing place; but a <hi>Dogs appetite</hi> we have to the bread on his Table, repreſen<g ref="char:EOLhyphen"/>ting his ſacred body there. Again, we worſhip him according to our <hi>own underſtanding;</hi> we for the moſt part all the Natio<g ref="char:EOLhyphen"/>nal Church over, and in every parochial Church there, put all the diſhonours upon the Lord Chriſt, and his onely holy day, ſuch a Church are we, ſo notorious for our brutiſhneſs, while yet we give honour to this day of his Birth, as we call it, and ſerve him all the day long after our own manner. Shall not God be aven<g ref="char:EOLhyphen"/>ged of ſuch Idolaters as we are? ſhall not he ſend a curſe upon us? will he not curſe our bleſſings? yea hath he not curſed them already, becauſe we lay it not to heart? Hath he not puniſhed us with the ſoreſt puniſhment? what is that? <hi>A puniſhment made of ſin.</hi> The Lord hath delivered us up, even the greateſt part of that bulky body, the National Church into a reprobate mind, void of judgement: we are abominable Idolaters, we Idolize days and places, and duties, and the graces, thoſe we have, we idolize too: we lean to any thing, to every thing, but him whom onely we ſhould make our <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ean to. A juſt judgement upon ſuch Idola<g ref="char:EOLhyphen"/>ters as are we, and now our eares are ſeated againſt inſtruction. Thunder in the eare of an Idolater, a ſtrict obſerver of this day, and other dayes of mans inſtitution, and he hears no more then doth the deaf ſtone, nor doth he move any more then a Mill-Poſt. A ſore judgment upon Idolaters, a ſuperſtitious Chriſtian, a ceremonial Hypocrite, he obſerves a day <hi>deviſed</hi> of his own heart; he is more hard and Rocky then a Turk is, Jews or Pagans are, and he is as cruel too, as cruelty it ſelf: A bloody man, if he be a ſuper<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>itious man, ſo ſaith <hi>Luther,</hi> as bloody as <hi>Paul,</hi> while he was in his Cell; <hi>though my ſhoul<g ref="char:EOLhyphen"/>ders are weak</hi> with faſting, yet had he lived in thoſe times, he
+<pb n="28" facs="tcp:118974:17"/> would have carried ſome Faggots to make the fire wherein <hi>John, Huſſe,</hi> and <hi>Hirron</hi> of <hi>Prague</hi> were burnt more burning. Ido<g ref="char:EOLhyphen"/>laters, all and every one of them, men and women and all are hard-hearted and bloody ones all, as <hi>Edom</hi> was, he did purſue his brother with the ſword, and did caſt off all piety, his anger did tear perpetually, and kept his w<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ath for ever: So true is that which that excellent man hath upon <hi>Jer. 15. 19. Superſtition</hi> and perſecu<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ion, <hi>will-worſhip</hi> and tyranny are inſeparable conco<g ref="char:EOLhyphen"/>mitants. Therefore Sir, bend your Tongue againſt theſe ſuper<g ref="char:EOLhyphen"/>ſtitious perſons, elſe it may be feared you will bend your Tongue the other way; and ſpeak to your ſelf in <hi>Pauls</hi> Language, <hi>your labour is in vain,</hi> with your people, if you prevail not with them in this thing, mind well that learned mans words, Docter <hi>Owen,</hi> of <hi>Tol. p.</hi> 78. in a caſe not very differing. Your not <hi>oppoſing</hi> here is providing you allow that you oppoſe not, there being no mid<g ref="char:EOLhyphen"/>dle thing betwixt thoſe two. Lift up Chriſt Jeſus the Lord, and you lift up his day too, and throw down man, and you throw down his Idol day alſo: where Chriſt is lifted up, ſelf is abaſed, and the riſing of his day will be the falling of the other. The ſpirit that ſtoopeth loweſt, you have hea<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d, and we hope you know, is beſt prepared to become a thrown for Chriſt. And to ſhut up, if you know thoſe, as ſure enough you do, that lift up this day, which every good man (we think) will throw down, till him or them, they have no <hi>morning</hi> in them, their light is like that in the grave, where the light is darkneſs, and how great is that darkneſſe. But here is a double comfort, (1) The folly of theſe is now manifeſt to all m<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n, they ſhall not proceed much farther. (2) the Devils are Chriſts priſoners, and ſhould not be ſuffered to walk up and down in the world, but that there is need of them. And for your ſel<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Sir, we hope you know your duty, and are learning it every day more perfectly, and to do what you know looking up to him, and calling for his ſpirit, which leadeth us by the light of his word into all neceſſary truths, <hi>Amen.</hi>
+               </p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="errata">
+            <head>ERRATA.</head>
+            <p>Page 1. line 1, for promiſed read premiſed</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
